@@ -48,6 +48,7 @@ Repositories follow a consistent naming convention:
 
 | Prefix | Description |
 |---|---|
+| `asm-` | Assembly — x86 architecture, low-level programming, CPU internals |
 | `net-` | Networking — protocols, packet analysis, network programming |
 | `sys-` | Systems — OS internals, kernel, low-level programming |
 | `emb-` | Embedded — IoT, microcontrollers, hardware interfaces |
