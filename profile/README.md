@@ -76,6 +76,13 @@ Repositories follow a consistent naming convention:
 ![Bash](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
+## Stats
+
+![](./profile-summary-card-output/vue/0-profile-details.svg)
+![](./profile-summary-card-output/vue/1-repos-per-language.svg)
+![](./profile-summary-card-output/vue/2-most-commit-language.svg)
+
+---
 
 ## Related Organizations
 
